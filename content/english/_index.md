@@ -19,11 +19,6 @@ features:
       - "Fill out the contact form to give us information on the work you require."
       - "Get a guaranteed response within 24 hours"
       - "We assess your requirements and give you a FREE quote"   
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"    
-
-     
+          
       
 ---
