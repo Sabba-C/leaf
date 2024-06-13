@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Get Tech Help"
-    link: "/#Contact1"
+    link: "/#Contact"
 
 # Features
 features:
