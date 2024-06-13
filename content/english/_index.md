@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Get Tech Help"
-    link: "https:www.leaf-computing.com/#Contact"
+    link: "https://www.leaf-computing.com/#Contact"
 
 # Features
 features:
