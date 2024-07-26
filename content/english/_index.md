@@ -17,8 +17,8 @@ features:
     content: "Leaf is dedicated to customer satisfaction. We do the technical stuff so you can put your mind at ease."
     bulletpoints:
       - "Fill out the contact form to give us information on the work you require."
-      - "Get a guaranteed response within 24 hours"
-      - "We assess your requirements and give you a FREE quote"   
+      - "Get a guaranteed response within 24 hours."
+      - "We assess your requirements and give you a FREE quote."   
           
       
 ---
